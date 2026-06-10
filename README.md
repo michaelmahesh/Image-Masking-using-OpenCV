@@ -1,4 +1,4 @@
-# Image Masking Exercise Using OpenCV (Bitwise Operations)
+# Image Masking Using OpenCV (Bitwise Operations)
 
 ## Aim
 
